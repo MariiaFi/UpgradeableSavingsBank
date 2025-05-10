@@ -43,14 +43,14 @@ Paste either `SavingsBank.sol` or `SavingsBankV2.sol` into [Remix IDE](https://r
 - `SavingsBank.sol` — V1
 - `SavingsBankV2.sol` — upgrade with pause and analytics
 
-## 📸 Preview
+## Preview
 
 You can find a demo of how this contract works with frontend integration in this LinkedIn post:  
  [My Solidity Day 6: Using UUPS Proxy Pattern](https://www.linkedin.com/posts/mariia-fialkovska-78857b234_100daysofsolidity-solidity-blockchain-activity-7324820319548882944-5cwB)
 
 ## Author
 
-👩‍💻 Mariia Fialkovska  
+Mariia Fialkovska  
 Solidity beginner, building my developer portfolio step by step.  
 Follow my progress on [LinkedIn](https://www.linkedin.com/in/mariia-fialkovska-78857b234/)
 
