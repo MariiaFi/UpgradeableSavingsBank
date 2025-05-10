@@ -48,7 +48,7 @@ It's my first real attempt at writing upgradeable contracts - I followed the pro
 2. Paste `SavingsBank.sol` and deploy V1
 3. Upgrade to `SavingsBankV2.sol` using the UUPS upgrade method
 4. Test deposits, pause/unpause, donation history
-
+5. Remove my comments from the first document beforehand so Remix doesn't complain
 ---
 
 ## Files
